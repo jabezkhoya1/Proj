@@ -1,0 +1,22 @@
+#Apps{
+background-color: yellow;
+padding-bottom: 10px;
+padding-top:10px;
+}
+#Games{
+  background-color: aqua; 
+  padding-bottom: 10px; 
+  padding-top:10px;
+}
+#Chatbot{
+    background-color: lawngreen;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+body{
+    text-align: center;
+}
+img{
+    width: 40%;
+    height: 50%;
+}
